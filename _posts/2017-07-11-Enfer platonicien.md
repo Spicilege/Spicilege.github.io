@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Hello World"
+title: "Enfer platonien"
 date: 2017-07-11
 ---
 C'était le soir. J'étais devant mon ordinateur en train de discuter avec une amie d'un plan pour la partie de jeux de rôles du lendemain : 
 " Il faudra agir lorsque les gardes transféreront la nana : on attaque le convoi qui n'aura que des véhicules légers et voilà, m'expliqua-t-elle.
-- Certes, ça pourrait marcher mais je suis presque sûr que cela ne se fera pas si simplement. "
+-Certes, ça pourrait marcher mais je suis presque sûr que cela ne se fera pas si simplement. "
 J'écrivais la suite du message quand la musique que j'étais en train d'écouter se mit à se distordre. 
 Un nouveau message  s'afficha :
 " presque sûr ??"
-Puis un autre écrit en majuscule rouge : 
-<p class="texteenrouge">Ce paragraphe va être en rouge.</p>
+Puis un autre écrit en majuscules rouges : 
+<p color: red">POUR QUELLE MESURE ?</p>
 La musique se distordait de plus en plus. L'écran ne me paraissait plus qu'afficher ces trois mots ; le reste semblait n'être que des amas de pixels colorés.
 Je me sentais aspiré par mon écran, quand, tout d'un coup, les bords de mon ordinateur se rabattèrent derrière moi. 
 Tout était noir autour de moi. J'étais aspiré dans une direction inconnue.
